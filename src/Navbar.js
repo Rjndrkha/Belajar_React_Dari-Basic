@@ -1,3 +1,5 @@
+// MACAM MACAM CARA MEMBUAT NAVBAR
+
 // import React from 'react'
 
 //NAVBAR DENGAN FUNCTION
@@ -14,8 +16,21 @@
 //     )
 // }
 
-//NAVBAR DENGAN COMPONENT
+// CARA PEMBUATAN NAVBAR 1 (DENGAN CONST)
+// const Navbar = () => {
+//   return (
+//     <div className="navbar">
+//       <h1>My Blog</h1>
+//       <div className="links">
+//         <a href="/">Home</a>
+//         <a href="/create">New Blog</a>
+//       </div>
+//     </div>
+//   );
+// }
+// export default Navbar;
 
+//NAVBAR DENGAN COMPONENT
 import React, { Component } from 'react'
 
 export default class Navbar extends Component {
@@ -31,3 +46,4 @@ export default class Navbar extends Component {
         )
     }
 }
+
