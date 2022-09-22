@@ -1,3 +1,15 @@
+# Dokumentasi Code
+
+___
+
+## Macam-Macam Pemanggilan Navbar
+
+![image](https://user-images.githubusercontent.com/75615789/191679347-bfd30749-31e6-4d22-b2bb-a25c25bcafd7.png)
+
+## Proses Pemanggilan Navbar 
+
+
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +80,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+```
