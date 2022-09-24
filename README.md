@@ -6,12 +6,29 @@ ___
 
 ![image](https://user-images.githubusercontent.com/75615789/191679347-bfd30749-31e6-4d22-b2bb-a25c25bcafd7.png)
 
-## Proses Pemanggilan Navbar 
+## Belajar Mengenai Variabbel 
 
+<table>
+	<tbody><tr class="ztXv9">
+		<th style="padding-left:0">var</th>
+		<th>let</th>
+		<th>const</th>
+	</tr><tr>
+		<td style="padding-left:0">Dapat diakses tanpa inisialisasi karena nilai defaultnya adalah "tidak terdefinisi".
+		</td>
+		<td>Tidak dapat diakses tanpa inisialisasi jika tidak maka akan memberikan 'referenceError'.
+		</td>
+		<td>Tidak dapat diakses tanpa inisialisasi, karena tidak dapat dideklarasikan tanpa inisialisasi.</td>
+	</tr>
+</tbody>
+</table>
 
-```
+![image](https://user-images.githubusercontent.com/75615789/192077378-3a0008be-febd-42b9-a0e9-69fe696d6fb8.png)
+
+## Belajar Mengenai State & Props
+
 # Getting Started with Create React App
-
+```
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
